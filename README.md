@@ -1,1 +1,1 @@
-# dynamic_path_planning
+# Dynamic Obstacle Avoidance and Path Planning
