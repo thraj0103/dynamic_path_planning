@@ -1,0 +1,6 @@
+<library path="d_star_planner">
+  <class type="d_star_planner::DStarPlanner"
+         base_class_type="nav2_core::GlobalPlanner">
+    <description>D* Global Planner Plugin for Navigation2</description>
+  </class>
+</library>
